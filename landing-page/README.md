@@ -17,6 +17,7 @@ Lastly, user can understand what section they are on because whichever section t
 In our JavaScript file, we created our navbar using an unordered list. 
 There is section active state added so that you can tell when a section is in the viewport.
 Added an event listener for smooth scrolling.
+I made minor changes to the CSS.
 
 ## Credits
 
